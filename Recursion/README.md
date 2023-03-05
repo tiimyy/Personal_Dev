@@ -1,1 +1,1 @@
-Excersises to reinforce my uderstanding on REsursion
+Excersises to reinforce my uderstanding on Recursion
